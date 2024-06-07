@@ -78,7 +78,7 @@
     pointer-events: none
 }
 .nice-select.disabled:after {
-    border-color: $color-gray80
+    border-color: #c6c6c6
 }
 .nice-select.wide {
     width: 100%
